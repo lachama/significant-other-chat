@@ -1,0 +1,26 @@
+{
+  "name": "significant-other-chat",
+  "version": "1.0.0",
+  "description": "socket.io chat test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lachama/significant-other-chat.git"
+  },
+  "author": "Claudia Dávila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lachama/significant-other-chat/issues"
+  },
+  "homepage": "https://github.com/lachama/significant-other-chat#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8"
+  }
+}
